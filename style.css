@@ -178,8 +178,28 @@ border: red;
     margin: 
     }
 
+.form{
+    background-color: chocolate;
+    width: 50%;
+    height: 30%;
+    margin: 30px 40px;
+    margin-left: 25%;
+    border-radius: 6px;
+    
+    
+    
+}
 
+.form-1{
 
+margin: 30px;
+}
+
+.Email{
+    background-color: navajowhite;
+    width: 5%;
+    
+}
 
 
 
